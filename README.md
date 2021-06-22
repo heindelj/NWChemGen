@@ -1,0 +1,2 @@
+# NWChemGen
+This package essentially provides an interface to generate input files for the NWChem electronic structure package. It also allows for parsing of certain features of the output file into a suitable Julia object. The package aims to be a reasonable solution for launching and then parsing the output of many small calculations. However, it works perfectly fine for generating an input file for a single calculation.
